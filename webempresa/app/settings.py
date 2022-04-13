@@ -32,7 +32,7 @@ RECAPTCHA_PRIVATE_KEY = '6LdU_AYdAAAAABAXXzpRp0OrFtuRy-TfIW59mN7B'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['51.91.45.195', 'www.souto-instalacioneselectricidadyfontaneria.es']
+ALLOWED_HOSTS = ['51.91.45.195', 'www.souto-instalacioneselectricidadyfontaneria.es', 'souto-instalacioneselectricidadyfontaneria.es']
 
 #
 # Application definition
